@@ -2,3 +2,24 @@ html{
     background-color: grey;
     text-align: center;
     }
+
+
+    .IceCream {
+        border: 10px double teal;
+        border-radius: 25%;
+    }
+    
+    .Beach { 
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+
+    }
+
+    .Sunny { 
+        background-color: white;
+        background-position: center;
+        padding: 20px;
+        border-radius: 15px;
+
+    }
