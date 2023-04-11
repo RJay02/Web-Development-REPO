@@ -1,9 +1,10 @@
 html{
+    /* Styling the website  */
     background-color: grey;
     text-align: center;
     }
 
-
+    /* Created a separate class for each different image to style each image differently  */
     .IceCream {
         border: 10px double teal;
         border-radius: 25%;
