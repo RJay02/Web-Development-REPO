@@ -21,11 +21,21 @@ aside{
 
  }
 
+/* nav - navigation styling */
+nav{
+  margin-right: 10px; /* give some breathing space */
+  float: right; /* places nav buttons on opposite side to logo */
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 10px;
+  
+}
 
-/* .sidebar { */
-    /* background-color: #172d67; */
-    /* color: #FFFFFF; */
-/* } */ 
+
+
 
 ul {
     margin: 0;
