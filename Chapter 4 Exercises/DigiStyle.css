@@ -14,10 +14,18 @@ body{
   color: #FFFFFF
 }
 
-.sidebar {
-    background-color: #172d67;
-    color: #FFFFFF;
-}
+aside{
+  float: right; /* ensures aside content will sit to the right */
+  background-color: #172d67;
+  color: #FFFFFF;
+
+ }
+
+
+/* .sidebar { */
+    /* background-color: #172d67; */
+    /* color: #FFFFFF; */
+/* } */ 
 
 ul {
     margin: 0;
@@ -34,7 +42,10 @@ ul {
   }
 
   footer{
+    clear: both;
+    padding: 5px;
     background-color: #8c15e9;
     color: #FFFFFF;
     text-align: center;
+    font-family: Arial;
   }
