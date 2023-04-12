@@ -4,15 +4,21 @@ html {
     text-align: center;
 }
 
-Menu { 
-    background-color: #333;
-    overflow: hidden;
-    color: white;
+/* Class to style the menu  */
+.Menu { 
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    /* justify-content: space-between; */
+    font-size: 18px;
+    padding: 20px;
+    background-color: bisque;
+    color: #fff;
 
 }
 
 
 h1 { 
     font-size: 200%;
-    color:forestgreen ;
+    color: black ;
 }
