@@ -4,6 +4,14 @@ html {
     text-align: center;
 }
 
+Menu { 
+    background-color: #333;
+    overflow: hidden;
+    color: white;
+
+}
+
+
 h1 { 
     font-size: 200%;
     color:forestgreen ;
