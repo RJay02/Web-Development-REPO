@@ -9,7 +9,6 @@ html {
     display: flex;
     align-items: center;
     gap: 1em;
-    /* justify-content: space-between; */
     font-size: 18px;
     padding: 20px;
     background-color: bisque;
@@ -22,3 +21,12 @@ h1 {
     font-size: 200%;
     color: black ;
 }
+
+/* Class to style the button */
+.button{
+    background-color: cadetblue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+  }
