@@ -4,6 +4,15 @@ body{
     font: "Arial", 400;
 }
 
+#top{
+  width: 700px;
+  height: 75px;
+  padding: 5px;
+  background-color: #17072b;
+  text-align: center;
+  font-family: Tahoma;
+  color: #FFFFFF
+}
 
 .sidebar {
     background-color: #172d67;
